@@ -3,15 +3,20 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ Who am I?
 
-Hi! I'm **Laukik**, a first-year Information Technology student passionate about **building web experiences** and **exploring AI/ML**.  
-I love turning ideas into reality through code and experimenting with creative problem-solving.
+Well, I'm just a guy who gets genuinely excited when code actually works on the first try (rare, but it happens!). Currently, I'm a first-year Information Technology student exploring **web development**, **AI/ML**, and **creative problem-solving**.
 
-- 🧠 Currently learning: **Backend Development**, **MongoDB**, and **DSA**
-- 🤝 Open to collaborating on: **Web Tools, Utilities, and AI-driven Projects**
-- 🔍 Interests: **Web 3.0**, **AI/ML**, **Developer Tools**, and **Creative UI/UX**
-- ⚡ Fun fact: *I debug faster with coffee ☕*
+What really excites me? Turning messy, complicated problems into clean, working solutions. There's something magical when everything clicks together.  
+
+Right now, I'm:
+
+- Deep into **Backend Development, MongoDB, and DSA**  
+- Exploring **Web 3.0, AI/ML, and creative UI/UX**  
+- Probably debugging something that worked yesterday  
+- Building tools and projects that make life easier  
+
+Random fact: I debug faster with coffee ☕  
 
 ---
 
@@ -27,10 +32,18 @@ I love turning ideas into reality through code and experimenting with creative p
 
 ---
 
-## 🌟 Featured Project
+## 🌟 Featured Projects
 
-- 🌐 **Portfolio Website** – A personal portfolio to showcase my **projects, skills, and resume** in a sleek and interactive way.  
+- 🌐 **Portfolio Website** – Sleek and interactive personal portfolio to showcase **projects, skills, and resume**.  
   *Tech:* HTML | CSS | JavaScript | Responsive Design | GitHub Pages
+
+- 🔍 **InstaSearch Clone** – Quick image searches with clean interface and smooth UX.  
+  *Tech:* Next.js | TypeScript | ShadCN | Tailwind CSS | Unsplash API  
+
+- 🤖 **Mini AI Project** – Small AI/ML experiments, exploring predictive models and automation.  
+  *Tech:* Python | Scikit-learn | Pandas  
+
+*(More projects coming as I keep experimenting!)*
 
 ---
 
