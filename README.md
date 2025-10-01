@@ -1,79 +1,83 @@
 <div align="center">
   <h1>Hey 👋, I'm Laukik!</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=440&lines=IT+Undergrad;Web+Developer;DSA+Explorer;ML+%26+AI+Enthusiast" alt="Typing SVG" />
-  <img src="https://komarev.com/ghpvc/?username=LaukikRathod2007&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=IT+Undergrad;Web+Developer;DSA+Master;AI+Explorer" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=LaukikRathod2007&style=flat-square&color=cyan" alt="Profile Views" />
 </div>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-Hey there! I'm *Laukik Rathod*, a first-year **Information Technology** student with a passion for crafting **web experiences**, diving into **Data Structures and Algorithms (DSA)**, and exploring the exciting world of **Machine Learning (ML)** and **Data Science (DS)**. I love turning ideas into reality through code and solving problems with a creative twist.
+Hey! I’m *Laukik Rathod*, a first-year **IT student** passionate about crafting **web experiences**, mastering **Data Structures and Algorithms (DSA)**, and diving into **Machine Learning (ML)** & **Data Science (DS)**. I thrive on turning complex problems into elegant solutions, fueled by coffee ☕ and a love for code.
 
-- 🧠 **Currently learning**: Backend Development, MongoDB, and DSA
-- 🤝 **Open to collaborating on**: Web Tools, Utilities, and AI-driven Projects
-- 🔍 **Interests**: Web 3.0, AI/ML, Developer Tools, and Creative UI/UX
-- ⚡ **Fun fact**: I debug faster with a cup of coffee in hand ☕
-- 💡 **Motto**: *Consistency beats perfection every time.*
+- 🧠 **Learning Now**: Backend with Node.js, MongoDB, and Advanced DSA
+- 🤝 **Collaboration Ideas**: Web Tools, AI Projects, and DSA Challenges
+- 🔍 **Passions**: Web 3.0, AI/ML, UI/UX Innovation
+- ⚡ **Fun Fact**: I once debugged a 12-hour bug with a single semicolon fix!
 
 ---
 
-## 🛠️ Toolbox & Tech Stack
-
-Here’s the tech I’m working with (and learning to love):
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
-
-| **Languages** | **Frontend** | **Backend** | **Database** | **Tools** |
-|---------------|--------------|-------------|--------------|-----------|
-| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
-
+  <a href="https://github.com/LaukikRathod2007">
+    <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,nodejs,express,mongodb,git,vscode" alt="Tech Stack" width="400" />
+  </a>
 </div>
 
 ---
 
 ## 🌟 Featured Projects
 
-Here are some projects I’m proud of (and that mostly work!):
+Check out some of my creations (more to come as I update!):
 
 - 🌐 **Portfolio Website**  
-  A sleek, interactive personal portfolio showcasing my projects, skills, and resume. Built to impress with a clean design and responsive layout.  
-  **Tech**: HTML, CSS, JavaScript, Responsive Design, GitHub Pages  
-  **[Live Demo](https://your-portfolio-link.com) | [Repository](https://github.com/LaukikRathod2007/portfolio)**
+  An interactive portfolio with a futuristic theme, showcasing my skills and projects with smooth animations.  
+  **Tech**: HTML, CSS, JavaScript, Tailwind CSS, GitHub Pages  
+  **[Live Demo](https://your-portfolio-link.com) | [Repo](https://github.com/LaukikRathod2007/portfolio)**
 
-- 🚀 **Web Tool (In Progress)**  
-  A utility tool for developers to simplify repetitive tasks (details TBD as I’m still building it!). Think of it as my playground for experimenting with Node.js and MongoDB.  
-  **Tech**: Node.js, Express.js, MongoDB, JavaScript  
-  **[Repository](https://github.com/LaukikRathod2007/web-tool)**
+- 🚀 **DSA Tracker**  
+  A personal tool to track my DSA progress with visualizations and problem-solving stats.  
+  **Tech**: Python, JavaScript, Chart.js  
+  **[Repo](https://github.com/LaukikRathod2007/dsa-tracker)**
 
-- 🤖 **AI/ML Experiment**  
-  A small ML project exploring basic algorithms and datasets to get my feet wet in the world of AI. Early stages, but I’m excited to see where it goes!  
-  **Tech**: Python, Scikit-learn, Pandas  
-  **[Repository](https://github.com/LaukikRathod2007/ml-experiment)**
+- 🤖 **AI Experiment Hub**  
+  A playground for ML models and datasets, exploring real-world applications.  
+  **Tech**: Python, Scikit-learn, TensorFlow  
+  **[Repo](https://github.com/LaukikRathod2007/ai-experiments)**
+
+*(Update these with your latest projects later!)*
 
 ---
 
-## 📊 GitHub Stats & Contributions
+## 📊 Advanced GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LaukikRathod2007&show_icons=true&theme=tokyonight&hide=issues" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LaukikRathod2007&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-snake-svg.herokuapp.com?username=LaukikRathod2007&theme=dark" alt="Contribution Snake" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LaukikRathod2007&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LaukikRathod2007&theme=dracula&hide_border=true&stroke=ffffff&background=1c2526" height="180" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LaukikRathod2007&theme=dracula" height="180" />
 </div>
 
 ---
 
-## 🎧 What I’m Jamming To
+## 🎮 Contribution Heatmap
 
-Good music fuels good code! Here’s what’s on my playlist while I debug:
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-user-id)
+<div align="center">
+  <img src="https://ghchart.rshah.org/LaukikRathod2007" alt="Contribution Heatmap" />
+</div>
 
 ---
 
-## 📬 Let’s Connect!
+## 🎵 Coding Vibes
 
-I’m always up for a chat about code, projects, or just geeky tech stuff. Don’t be a stranger!
+Fueling my code with beats! Check out my current jam:
+[![Spotify](https://novatorem.vercel.app/api/spotify?user=your-spotify-user-id)](https://open.spotify.com/user/your-spotify-user-id)
+
+---
+
+## 📬 Get in Touch
+
+Let’s connect and build something amazing!
 
 <p align="center">
   <a href="https://linkedin.com/in/laukik-rathod-182337311"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -84,6 +88,6 @@ I’m always up for a chat about code, projects, or just geeky tech stuff. Don�
 ---
 
 <div align="center">
-  <p><i>"Code. Build. Learn. Repeat."</i></p>
-  <p>Thanks for stopping by! Drop a ⭐ on my repos if you like what you see!</p>
+  <p><i>"Code hard, learn harder."</i></p>
+  <p>Star ⭐ my repos if you like my work—thanks for visiting!</p>
 </div>
