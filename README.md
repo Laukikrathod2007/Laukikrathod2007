@@ -1,8 +1,6 @@
-<div align="center">
 Hey there! 👋 I'm Laukik Rathod
 Show Image
 Show Image
-</div>
 
 🎯 Who am I?
 Just a first-year IT student who gets unreasonably excited when code works on the first try (rare, but magical!). Currently deep in web development and spending way too many hours debugging things that worked yesterday.
@@ -49,32 +47,22 @@ Currently cooking up: E-commerce platform, AI chatbot, data visualization dashbo
 
 📊 The Numbers
 Because GitHub stats are basically developer flexing rights:
-<div align="center">
 Show Image
 Show Image
-</div>
 
 🏆 Look Ma, I Got Trophies!
-<div align="center">
 Show Image
-</div>
 
 🤝 Let's Be Friends!
 Always down to chat about code, swap project ideas, or just talk tech. Don't be a stranger!
-<div align="center">
 Show Image
 Show Image
 Show Image
-</div>
 
 💭 Wisdom from the Coding Gods
-<div align="center">
 Show Image
-</div>
 
-<div align="center">
 "Code. Build. Learn. Repeat."
 And occasionally question all life choices when debugging CSS 🙃
 Show Image
 Thanks for stopping by! If something catches your eye, a star ⭐ would totally make my day!
-</div>
