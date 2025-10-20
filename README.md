@@ -1,14 +1,13 @@
 <!-- Contribution Snake Animation -->
 <div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Laukik's Contribution Graph" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Laukik's Contribution Graph Animation" />
 </div>
 
 <div align="center">
 
-# 👋 Hey, I'm Laukik Rathod  
-🚀 MERN-Stack Developer | AI & ML Explorer | DSA Enthusiast
+# 👋 Hey there! I'm Laukik Rathod  
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=1300&color=00C6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;AI+and+ML+Explorer;Continuous+Learner;Turning+Ideas+into+Code;" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;AI+%26+ML+Explorer;DSA+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Laukikrathod2007&style=for-the-badge&color=blueviolet)](https://github.com/Laukikrathod2007)
 [![GitHub Followers](https://img.shields.io/github/followers/Laukikrathod2007?style=for-the-badge)](https://github.com/Laukikrathod2007?tab=followers)
@@ -17,13 +16,14 @@
 
 ---
 
-<img align="right" alt="Coding GIF" width="400" src="https://raw.githubusercontent.com/Laukikrathod2007/assets/main/solo-leveling-coding.gif" />
+<img align="right" alt="Solo Leveling Coding GIF" width="400" src="https://raw.githubusercontent.com/Laukikrathod2007/assets/main/solo-leveling-coding.gif" />
 
 ## 🧠 About Me  
+
 🎓 B.Tech IT (2024–2028) at JSPM’s Rajarshi Shahu College  
-💡 Passionate MERN-Stack Developer crafting clean, scalable solutions  
-🤖 Exploring AI, ML, and Robotics  
-💻 DSA enthusiast: practicing algorithms in C++ and Python  
+💡 Passionate MERN-Stack Developer, focused on clean & scalable solutions  
+🤖 Exploring AI, Machine Learning, and Robotics  
+💻 DSA enthusiast: solving algorithms in C++ and Python  
 
 ---
 
@@ -56,23 +56,7 @@
 
 ---
 
-## 💼 Featured Projects  
-
-<div align="center">
-
-<a href="https://github.com/Laukikrathod2007/Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laukikrathod2007&repo=Portfolio&theme=tokyonight&border_color=5865F2&border_radius=10" />
-</a>
-
-<a href="https://github.com/Laukikrathod2007/AI-Chatbot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laukikrathod2007&repo=AI-Chatbot&theme=tokyonight&border_color=5865F2&border_radius=10" />
-</a>
-
-</div>
-
----
-
-## 📊 GitHub Analytics  
+## 📊 GitHub Stats  
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laukikrathod2007&show_icons=true&theme=tokyonight" />
@@ -83,12 +67,18 @@
 
 ---
 
-## 🎵 Solo Leveling Vibes  
+## 🏆 GitHub Trophies  
 
 <div align="center">
-<!-- Replace "spotify-user-id" with your actual Spotify user ID -->
-[![Spotify](https://novatorem.vercel.app/api/spotify?user=spotify-user-id&background_color=1a1b27&bar_color=00C6FF)](https://open.spotify.com/track/6n3pFFPSlW0ej1s7lR0diM)
-<p><i>Recommended Track: "Solo Leveling OST – The Hunter" 🎵</i></p>
+  <img src="https://github-profile-trophy.vercel.app/?username=Laukikrathod2007&theme=tokyonight&no-frame=false&column=7&margin-w=15&margin-h=15" />
+</div>
+
+---
+
+## 🎵 Solo Leveling OST  
+
+<div align="center">
+**Track Name:** [Solo Leveling OST – The Hunter](https://open.spotify.com/track/6n3pFFPSlW0ej1s7lR0diM) 🎧
 </div>
 
 ---
@@ -105,4 +95,8 @@
 ---
 
 <div align="center">
-## 💻 “Code. Build. Lear
+## 💻 “Code. Build. Learn. Repeat.”  
+*Turning caffeine into code since 2023 ☕*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" />
+</div>
