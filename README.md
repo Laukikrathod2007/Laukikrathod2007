@@ -1,94 +1,107 @@
-<div align="center">
-  <!-- 🔥 Solo Leveling Banner -->
-  <img src="https://raw.githubusercontent.com/LaukikRathod2007/LaukikRathod2007/main/assets/solo-banner.gif" width="700" alt="Solo Leveling Banner">
-
-  <!-- ⚔️ Animated Title -->
-  <h1 style="color:#00E0FF;">⚔️ Laukik Rathod — The Shadow Developer ⚔️</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00E0FF&center=true&vCenter=true&width=600&lines=IT+Undergrad+%7C+Web+Developer;DSA+Enthusiast+%7C+AI+Explorer;Code.+Evolve.+Level+Up." alt="Typing Animation" />
-
-  <!-- 👁️ Profile Counter -->
-  <img src="https://komarev.com/ghpvc/?username=LaukikRathod2007&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+<!-- =========================
+      🧠 LAUKIK RATHOD'S PROFILE
+     ========================= -->
+<div id="header" align="center">
+  <img src="https://i.gifer.com/7ImI.gif" width="350" alt="Coding Animation" />
 </div>
 
----
-
-## 🩸 About Me
-
-> “Even in darkness, I see the glow of innovation.”
-
-I'm **Laukik Rathod**, a first-year **IT student** coding like a hunter — leveling up in **Web Development**, **DSA**, and **AI/ML**.  
-
-- ⚙️ **Current Quest:** Backend with Node.js & MongoDB  
-- 🧠 **Grinding Daily:** DSA, algorithms, clean code  
-- 🔮 **Exploring Realms:** AI, ML, Web 3.0, UI/UX  
-- 💬 **Motto:** `while(alive){ keepCoding(); }`  
-
----
-
-<img src="https://raw.githubusercontent.com/LaukikRathod2007/LaukikRathod2007/main/assets/divider.gif" width="100%" alt="divider">
-
----
-
-## ⚔️ My Arsenal — Tech Stack
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,nodejs,express,mongodb,git,vscode,tailwind&perline=7" />
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Laukik+Rathod+👋;MERN-Stack+Developer;Building+innovative+and+scalable+apps;Exploring+AI+%26+Machine+Learning;Let's+Build+the+Future+Together!" />
+  </h1>
 </div>
 
-> 💠 *Each icon represents a skill I’m mastering or evolving.*
+<hr style="height:3px; background:linear-gradient(90deg,#00c6ff,#0072ff); border:none;">
 
----
+<h2 align="center">🌐 Connect with Me</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/laukik-rathod/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40">
+  </a>&nbsp;
+  <a href="https://github.com/laukik-rathod" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40">
+  </a>&nbsp;
+  <a href="mailto:rathodlaukik184@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40">
+  </a>
+</p>
 
-## 🧿 Featured Projects
+<hr style="height:3px; background:linear-gradient(90deg,#0072ff,#00c6ff); border:none;">
 
-| 🌌 Project | 🪄 Description | ⚙️ Tech Stack |
-|-------------|----------------|---------------|
-| **[Portfolio Website](https://github.com/LaukikRathod2007/portfolio)** | Interactive personal website showcasing projects & skills. | HTML, CSS, JS, Tailwind |
-| **[DSA Tracker](https://github.com/LaukikRathod2007/dsa-tracker)** | Track and visualize DSA progress with charts. | Python, JS, Chart.js |
-| **[AI Experiment Hub](https://github.com/LaukikRathod2007/ai-experiments)** | Sandbox for training & testing ML models. | Python, TensorFlow, Scikit-learn |
+<h2 align="center">🧩 About Me</h2>
+<p align="center">
+  Hi, I'm <b>Laukik Kishor Rathod</b> — a <b>MERN-Stack Developer</b> from Pune, pursuing <b>B.Tech in Information Technology (2024–2028)</b> at JSPM’s Rajarshi Shahu College of Engineering, Tathwade.
+  <br><br>
+  Passionate about crafting scalable and aesthetic web solutions, blending strong logic with clean UI. 
+  <br>
+  Currently enhancing my problem-solving skills in <b>Data Structures & Algorithms (DSA in C)</b> and diving into <b>AI-ML & Robotics</b>.
+</p>
 
----
+<hr style="height:3px; background:linear-gradient(90deg,#00c6ff,#0072ff); border:none;">
 
-## 💠 GitHub Stats — Level Progression
+<h2 align="center">⚙️ Skills & Tools</h2>
+<table align="center">
+  <tr>
+    <td><strong>Programming & Frameworks</strong></td>
+    <td><img height=40 src="https://skillicons.dev/icons?i=js,cpp,python,nodejs,react,nextjs"></td>
+  </tr>
+  <tr>
+    <td><strong>Database & Web Tech</strong></td>
+    <td><img height=40 src="https://skillicons.dev/icons?i=mysql,html,css,postman"></td>
+  </tr>
+  <tr>
+    <td><strong>Tools I Use</strong></td>
+    <td><img height=40 src="https://skillicons.dev/icons?i=git,vscode"></td>
+  </tr>
+</table>
 
+<hr style="height:3px; background:linear-gradient(90deg,#0072ff,#00c6ff); border:none;">
+
+<h2 align="center">🏆 Achievements</h2>
+<ul align="center" style="list-style-type:none;">
+  <li>Team Lead of <b>Team TATV</b>, participated in 4+ national hackathons</li>
+  <li>Ranked <b>114/1500</b> at Paranox 2.0 Hackathon</li>
+  <li>Pre-qualified at college-level Hackathon rounds</li>
+  <li>Completed Business Development Internship at <b>Younity Community Pvt. Ltd.</b></li>
+</ul>
+
+<hr style="height:3px; background:linear-gradient(90deg,#00c6ff,#0072ff); border:none;">
+
+<h2 align="center">📊 GitHub Analytics</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LaukikRathod2007&show_icons=true&theme=tokyonight&title_color=00E0FF&icon_color=00E0FF&text_color=C0C0C0&bg_color=0A0F1C" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LaukikRathod2007&theme=tokyonight-duo&background=0A0F1C&stroke=00E0FF&hide_border=true" height="180" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LaukikRathod2007&theme=react-dark&area=true&hide_border=true&line=00E0FF&point=6B00FF" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laukik-rathod&theme=github_dark" height="190" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laukik-rathod&theme=tokyonight&fire=00c6ff&ring=0072ff&currStreakNum=00c6ff" height="190" /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=laukik-rathod&show_icons=true&theme=tokyonight" height="160" />
 </div>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=laukik-rathod&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views counter" />
+</p>
 
-## 🕹️ Contribution Realm
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/00E0FF/LaukikRathod2007" alt="Contribution Heatmap" />
-</div>
-
----
-
-## 🎧 Coding Playlist — Energy Source
-
-> “When the code compiles, the beat drops.”
-
-[![Spotify](https://novatorem.vercel.app/api/spotify?user=your-spotify-user-id&background_color=0A0F1C&border_color=00E0FF&color=00E0FF)](https://open.spotify.com/user/your-spotify-user-id)
-
----
-
-## ⚔️ Connect With Me — Join My Guild
+<hr style="height:3px; background:linear-gradient(90deg,#0072ff,#00c6ff); border:none;">
 
 <div align="center">
-  <a href="https://linkedin.com/in/laukik-rathod-182337311"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:rathodlaukik184@gmail.com"><img src="https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/LaukikRathod2007"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=25&duration=3500&color=00C6FF&center=true&vCenter=true&width=600&lines=Keep+Building...;Stay+Curious...;Code+With+Purpose!" alt="Typing Animation" />
+  </h1>
 </div>
 
----
-
-<div align="center">
-  <!-- Outro Animation -->
-  <img src="https://raw.githubusercontent.com/LaukikRathod2007/LaukikRathod2007/main/assets/shadow.gif" width="300" alt="Shadow Animation">
-
-  <h3 style="color:#00E0FF;">“I leveled up... again.”</h3>
-  <p>⭐ Star my repositories to join my coding journey.</p>
-</div>
+<style>
+  body {
+    background: radial-gradient(circle at top, #0a192f 0%, #020c1b 100%);
+    color: #dcdcdc;
+    font-family: 'Fira Code', monospace;
+    letter-spacing: 0.5px;
+    line-height: 1.6;
+  }
+  h1, h2 {
+    color: #58A6FF;
+  }
+  a:hover img {
+    transform: scale(1.1);
+    transition: all 0.3s ease;
+  }
+  hr {
+    margin: 1.2rem 0;
+  }
+</style>
