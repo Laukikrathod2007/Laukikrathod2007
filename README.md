@@ -1,7 +1,12 @@
 <div align="center">
-  <img src="https://i.imgur.com/C4E4f8L.gif" width="500" alt="Solo Leveling Banner">
+  <!-- 🔥 Solo Leveling Banner -->
+  <img src="https://raw.githubusercontent.com/LaukikRathod2007/LaukikRathod2007/main/assets/solo-banner.gif" width="700" alt="Solo Leveling Banner">
+
+  <!-- ⚔️ Animated Title -->
   <h1 style="color:#00E0FF;">⚔️ Laukik Rathod — The Shadow Developer ⚔️</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00E0FF&center=true&vCenter=true&width=600&lines=I+leveled+up+through+code.;Forging+digital+realms.;From+IT+Student+to+Shadow+Dev.;Welcome+to+my+Domain+🌀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00E0FF&center=true&vCenter=true&width=600&lines=IT+Undergrad+%7C+Web+Developer;DSA+Enthusiast+%7C+AI+Explorer;Code.+Evolve.+Level+Up." alt="Typing Animation" />
+
+  <!-- 👁️ Profile Counter -->
   <img src="https://komarev.com/ghpvc/?username=LaukikRathod2007&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </div>
 
@@ -11,46 +16,44 @@
 
 > “Even in darkness, I see the glow of innovation.”
 
-I’m **Laukik Rathod**, a first-year **Information Technology student** — sharpening my skills like a hunter in the dungeon of **Web Development**, **Data Structures**, and **Artificial Intelligence**.  
+I'm **Laukik Rathod**, a first-year **IT student** coding like a hunter — leveling up in **Web Development**, **DSA**, and **AI/ML**.  
 
-When I’m not coding, I’m upgrading my stats, chasing perfect code efficiency, and exploring new frameworks like hidden quests.
-
-- ⚙️ **Current Quest:** Building full-stack web apps with **Node.js** and **MongoDB**
-- 🧠 **Grinding:** DSA problems, backend logic, and clean UI design
-- 🔮 **Dreaming About:** Creating AI tools that make coding feel magical
-- 💬 **Battle Cry:** `while(alive) { keepCoding(); }`
+- ⚙️ **Current Quest:** Backend with Node.js & MongoDB  
+- 🧠 **Grinding Daily:** DSA, algorithms, clean code  
+- 🔮 **Exploring Realms:** AI, ML, Web 3.0, UI/UX  
+- 💬 **Motto:** `while(alive){ keepCoding(); }`  
 
 ---
 
-<img src="https://i.imgur.com/0qvA2.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/LaukikRathod2007/LaukikRathod2007/main/assets/divider.gif" width="100%" alt="divider">
 
 ---
 
-## ⚔️ My Arsenal — Tech & Tools
+## ⚔️ My Arsenal — Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,nodejs,express,mongodb,git,vscode,tailwind&perline=7" />
 </div>
 
-> 💠 Each icon represents a skill I’ve mastered — or one I’m still leveling up.
+> 💠 *Each icon represents a skill I’m mastering or evolving.*
 
 ---
 
-## 🕶️ Featured Projects — My Codex
+## 🧿 Featured Projects
 
-| 🧿 Project | 🪄 Description | ⚙️ Tech Stack |
+| 🌌 Project | 🪄 Description | ⚙️ Tech Stack |
 |-------------|----------------|---------------|
-| 🌌 [**Portfolio Website**](https://your-portfolio-link.com) | A futuristic interface showcasing my coding journey and projects. | HTML, CSS, JS, Tailwind |
-| 🔱 [**DSA Tracker**](https://github.com/LaukikRathod2007/dsa-tracker) | Visualize your DSA progress with elegant charts and stats. | Python, JS, Chart.js |
-| 🧠 [**AI Experiment Hub**](https://github.com/LaukikRathod2007/ai-experiments) | My playground for training ML models and experimenting with datasets. | Python, TensorFlow, Scikit-learn |
+| **[Portfolio Website](https://github.com/LaukikRathod2007/portfolio)** | Interactive personal website showcasing projects & skills. | HTML, CSS, JS, Tailwind |
+| **[DSA Tracker](https://github.com/LaukikRathod2007/dsa-tracker)** | Track and visualize DSA progress with charts. | Python, JS, Chart.js |
+| **[AI Experiment Hub](https://github.com/LaukikRathod2007/ai-experiments)** | Sandbox for training & testing ML models. | Python, TensorFlow, Scikit-learn |
 
 ---
 
-## 🩶 Stats — Proof of Progress
+## 💠 GitHub Stats — Level Progression
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LaukikRathod2007&show_icons=true&theme=vision-friendly-dark&title_color=00E0FF&icon_color=00E0FF&text_color=C0C0C0&bg_color=0A0F1C" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LaukikRathod2007&theme=tokyonight-duo&hide_border=true&background=0A0F1C&stroke=00E0FF" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LaukikRathod2007&show_icons=true&theme=tokyonight&title_color=00E0FF&icon_color=00E0FF&text_color=C0C0C0&bg_color=0A0F1C" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LaukikRathod2007&theme=tokyonight-duo&background=0A0F1C&stroke=00E0FF&hide_border=true" height="180" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LaukikRathod2007&theme=react-dark&area=true&hide_border=true&line=00E0FF&point=6B00FF" height="200" />
 </div>
 
@@ -59,20 +62,20 @@ When I’m not coding, I’m upgrading my stats, chasing perfect code efficiency
 ## 🕹️ Contribution Realm
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/6B00FF/LaukikRathod2007" alt="Contribution Heatmap" />
+  <img src="https://ghchart.rshah.org/00E0FF/LaukikRathod2007" alt="Contribution Heatmap" />
 </div>
 
 ---
 
-## 🎧 Coding Music — My Energy Source
+## 🎧 Coding Playlist — Energy Source
 
-> “No mana left? Just one more commit.”
+> “When the code compiles, the beat drops.”
 
 [![Spotify](https://novatorem.vercel.app/api/spotify?user=your-spotify-user-id&background_color=0A0F1C&border_color=00E0FF&color=00E0FF)](https://open.spotify.com/user/your-spotify-user-id)
 
 ---
 
-## ⚔️ Connect with Me — Join My Guild
+## ⚔️ Connect With Me — Join My Guild
 
 <div align="center">
   <a href="https://linkedin.com/in/laukik-rathod-182337311"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -83,7 +86,9 @@ When I’m not coding, I’m upgrading my stats, chasing perfect code efficiency
 ---
 
 <div align="center">
-  <img src="https://i.imgur.com/XatfY1U.gif" width="400" alt="Shadow Hunter">
+  <!-- Outro Animation -->
+  <img src="https://raw.githubusercontent.com/LaukikRathod2007/LaukikRathod2007/main/assets/shadow.gif" width="300" alt="Shadow Animation">
+
   <h3 style="color:#00E0FF;">“I leveled up... again.”</h3>
-  <p>⭐ Star my repositories and join the journey to become the strongest developer!</p>
+  <p>⭐ Star my repositories to join my coding journey.</p>
 </div>
