@@ -7,7 +7,7 @@
 
 # 👋 Hey there! I'm Laukik Rathod  
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;AI+%26+ML+Explorer;DSA+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;AI+%26+ML+Explorer;DSA+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Laukikrathod2007&style=for-the-badge&color=blueviolet)](https://github.com/Laukikrathod2007)
 [![GitHub Followers](https://img.shields.io/github/followers/Laukikrathod2007?style=for-the-badge)](https://github.com/Laukikrathod2007?tab=followers)
@@ -56,6 +56,27 @@
 
 ---
 
+## 🖥️ DSA & Competitive Coding Platforms
+
+<div align="center">
+
+<a href="https://leetcode.com/u/laukikrathod2007/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+</a>
+<a href="https://www.hackerrank.com/laukikrathod2007" target="_blank">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+</a>
+<a href="https://www.codechef.com/users/laukikrathod2007" target="_blank">
+<img src="https://img.shields.io/badge/CodeChef-333333?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+</a>
+<a href="https://codeforces.com/profile/laukikrathod2007" target="_blank">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+</a>
+
+</div>
+
+---
+
 ## 📊 GitHub Stats  
 
 <div align="center">
@@ -75,10 +96,10 @@
 
 ---
 
-## 🎵 Solo Leveling OST  
+## ⚡ Badass Quote  
 
 <div align="center">
-**Track Name:** [Solo Leveling OST – The Hunter](https://open.spotify.com/track/6n3pFFPSlW0ej1s7lR0diM) 🎧
+> "I don’t fear failure. I fear being in the exact same place next year as I am today." – **Laukik Rathod**
 </div>
 
 ---
@@ -89,7 +110,6 @@
 <a href="mailto:rathodlaukik184@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/laukik-rathod"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/Laukikrathod2007"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://leetcode.com/u/laukikrathod2007/"><img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </div>
 
 ---
