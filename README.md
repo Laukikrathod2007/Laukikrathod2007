@@ -27,33 +27,30 @@
 
 ---
 
-## 🏆 Achievements & Roles  
-- Team Lead, Team TATV — 4+ national hackathons  
-- Paranox 2.0 Rank 114/1500  
-- Business Development Intern at Younity Community Pvt. Ltd.  
-
----
-
 ## ⚙️ Tech Stack
 
 <div align="center">
 
-### Languages & Frameworks  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
-
-### Database & Tools  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-![REST API](https://img.shields.io/badge/REST-API-orange?style=for-the-badge)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<table>
+<tr>
+  <td align="center"><img src="https://skillicons.dev/icons?i=cpp" alt="C++"/><br>C++</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=python" alt="Python"/><br>Python</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/><br>JavaScript</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=html,css" alt="HTML/CSS"/><br>HTML/CSS</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/><br>Node.js</td>
+</tr>
+<tr>
+  <td align="center"><img src="https://skillicons.dev/icons?i=react" alt="React"/><br>React</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"/><br>Next.js</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/><br>MongoDB</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=git" alt="Git"/><br>Git</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=postman" alt="Postman"/><br>Postman</td>
+</tr>
+<tr>
+  <td align="center"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/><br>VS Code</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=figma" alt="Figma"/><br>Figma</td>
+</tr>
+</table>
 
 </div>
 
@@ -86,19 +83,12 @@
 
 ---
 
-## 🏅 Trophies & Achievements  
+## 🎵 Solo Leveling Vibes  
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Laukikrathod2007&theme=onestar&column=7&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies"/>
-  <img src="https://github-readme-achievements.vercel.app/api?username=Laukikrathod2007&theme=matrix&rank=SSS,SS,S,A,B,C" alt="GitHub Achievements" />
-</div>
-
----
-
-## 🎵 Currently Listening  
-
-<div align="center">
-  <img src="https://novatorem.vercel.app/api/spotify?user=your-spotify-user-id&background_color=1a1b27&border_color=5865F2&bar_color=58A6FF" alt="Spotify Now Playing" />
+<!-- Replace "spotify-user-id" with your actual Spotify user ID -->
+[![Spotify](https://novatorem.vercel.app/api/spotify?user=spotify-user-id&background_color=1a1b27&bar_color=00C6FF)](https://open.spotify.com/track/6n3pFFPSlW0ej1s7lR0diM)
+<p><i>Recommended Track: "Solo Leveling OST – The Hunter" 🎵</i></p>
 </div>
 
 ---
@@ -114,17 +104,5 @@
 
 ---
 
-## 💬 Inspirational Quote  
-
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&border_color=5865F2" />
-</div>
-
----
-
-<div align="center">
-## 💻 “Code. Build. Learn. Repeat.”  
-*Turning caffeine into code since 2023 ☕*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" />
-</div>
+## 💻 “Code. Build. Lear
