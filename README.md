@@ -1,6 +1,6 @@
 <!-- Contribution Snake Animation -->
 <div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Laukik's contribution graph animation" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Laukik's Contribution Graph" />
 </div>
 
 <div align="center">
@@ -8,28 +8,27 @@
 # 👋 Hey, I'm Laukik Rathod  
 🚀 MERN-Stack Developer | AI & ML Explorer | DSA Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3500&pause=1300&color=00C6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+and+ML+Explorer;Continuous+Learner;Turning+Ideas+into+Code;" alt="Typing Animation" />
-<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=1300&color=00C6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;AI+and+ML+Explorer;Continuous+Learner;Turning+Ideas+into+Code;" alt="Typing Animation" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=laukik-rathod&style=for-the-badge&color=blueviolet)](https://github.com/laukik-rathod)
-[![GitHub Followers](https://img.shields.io/github/followers/laukik-rathod?style=for-the-badge)](https://github.com/laukik-rathod?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=Laukikrathod2007&style=for-the-badge&color=blueviolet)](https://github.com/Laukikrathod2007)
+[![GitHub Followers](https://img.shields.io/github/followers/Laukikrathod2007?style=for-the-badge)](https://github.com/Laukikrathod2007?tab=followers)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding GIF" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+<img align="right" alt="Coding GIF" width="400" src="https://raw.githubusercontent.com/Laukikrathod2007/assets/main/solo-leveling-coding.gif" />
 
 ## 🧠 About Me  
-🎓 B.Tech Information Technology (2024–2028) at JSPM’s Rajarshi Shahu College  
-💡 Passionate MERN-Stack Developer focused on clean, scalable solutions  
-🤖 Exploring AI, Machine Learning, and Robotics  
-💻 Actively improving DSA problem-solving skills in C and Python
+🎓 B.Tech IT (2024–2028) at JSPM’s Rajarshi Shahu College  
+💡 Passionate MERN-Stack Developer crafting clean, scalable solutions  
+🤖 Exploring AI, ML, and Robotics  
+💻 DSA enthusiast: practicing algorithms in C++ and Python  
 
 ---
 
 ## 🏆 Achievements & Roles  
-- Team Lead, Team TATV, 4+ national hackathons  
+- Team Lead, Team TATV — 4+ national hackathons  
 - Paranox 2.0 Rank 114/1500  
 - Business Development Intern at Younity Community Pvt. Ltd.  
 
@@ -48,6 +47,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
 
 ### Database & Tools  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
 ![REST API](https://img.shields.io/badge/REST-API-orange?style=for-the-badge)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
@@ -63,12 +63,12 @@
 
 <div align="center">
 
-<a href="https://github.com/laukik-rathod/Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=laukik-rathod&repo=Portfolio&theme=tokyonight&border_color=5865F2&border_radius=10" />
+<a href="https://github.com/Laukikrathod2007/Portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laukikrathod2007&repo=Portfolio&theme=tokyonight&border_color=5865F2&border_radius=10" />
 </a>
 
-<a href="https://github.com/laukik-rathod/AI-Chatbot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=laukik-rathod&repo=AI-Chatbot&theme=tokyonight&border_color=5865F2&border_radius=10" />
+<a href="https://github.com/Laukikrathod2007/AI-Chatbot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laukikrathod2007&repo=AI-Chatbot&theme=tokyonight&border_color=5865F2&border_radius=10" />
 </a>
 
 </div>
@@ -78,32 +78,27 @@
 ## 📊 GitHub Analytics  
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laukik-rathod&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laukik-rathod&layout=compact&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=laukik-rathod&theme=tokyonight&border_radius=10" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=laukik-rathod&theme=tokyo-night&bg_color=1a1b27&color=00C6FF&line=58A6FF&point=58A6FF&area=true" width="100%" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laukikrathod2007&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laukikrathod2007&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Laukikrathod2007&theme=tokyonight&border_radius=10" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Laukikrathod2007&theme=react-dark&bg_color=1a1b27&color=00C6FF&line=58A6FF&point=58A6FF&area=true" width="100%" />
 </div>
 
 ---
 
 ## 🏅 Trophies & Achievements  
 
-<!-- Animated Trophies Section -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Laukikrathod2007&theme=onestar&column=7&margin-w=15&margin-h=15&no-frame=true&title=Followers,Stars,Commit,PullRequest,Repositories,MultipleLang,IssueResponder,IssueCloser" alt="Animated GitHub Trophies"/>
-</div>
-
-<!-- Animated GitHub Achievements -->
-<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Laukikrathod2007&theme=onestar&column=7&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies"/>
   <img src="https://github-readme-achievements.vercel.app/api?username=Laukikrathod2007&theme=matrix&rank=SSS,SS,S,A,B,C" alt="GitHub Achievements" />
 </div>
 
 ---
 
-## 🎵 What I'm Listening To  
+## 🎵 Currently Listening  
 
 <div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/spotify?background_color=1a1b27&border_color=5865F2&bar_color=58A6FF" alt="Spotify Now Playing Card" />
+  <img src="https://novatorem.vercel.app/api/spotify?user=your-spotify-user-id&background_color=1a1b27&border_color=5865F2&bar_color=58A6FF" alt="Spotify Now Playing" />
 </div>
 
 ---
