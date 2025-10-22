@@ -1,122 +1,110 @@
-<!-- Contribution Snake Animation -->
+<!-- 👑 Kaizer Mode: Activated -->
 <div align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Laukik's Contribution Graph Animation" />
 </div>
 
 <div align="center">
 
-# 👋 Hey there! I'm Laukik Rathod  
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=35&duration=2500&pause=800&color=0ABEFF&center=true&vCenter=true&width=750&lines=LAUKIK+RATHOD;THE+KAIZER+OF+CODE;ELEGANCE+IN+EVERY+ALGORITHM" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;AI+%26+ML+Explorer;DSA+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Laukikrathod2007&style=for-the-badge&color=blueviolet)](https://github.com/Laukikrathod2007)
-[![GitHub Followers](https://img.shields.io/github/followers/Laukikrathod2007?style=for-the-badge)](https://github.com/Laukikrathod2007?tab=followers)
-
-</div>
-
----
-
-<img align="right" alt="Solo Leveling Coding GIF" width="400" src="https://raw.githubusercontent.com/Laukikrathod2007/assets/main/solo-leveling-coding.gif" />
-
-## 🧠 About Me  
-
-🎓 B.Tech IT (2024–2028) at JSPM’s Rajarshi Shahu College  
-💡 Passionate MERN-Stack Developer, focused on clean & scalable solutions  
-🤖 Exploring AI, Machine Learning, and Robotics  
-💻 DSA enthusiast: solving algorithms in C++ and Python  
-
----
-
-## ⚙️ Tech Stack
-
-<div align="center">
-
-<table>
-<tr>
-  <td align="center"><img src="https://skillicons.dev/icons?i=cpp" alt="C++"/><br>C++</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=python" alt="Python"/><br>Python</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/><br>JavaScript</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=html,css" alt="HTML/CSS"/><br>HTML/CSS</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/><br>Node.js</td>
-</tr>
-<tr>
-  <td align="center"><img src="https://skillicons.dev/icons?i=react" alt="React"/><br>React</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"/><br>Next.js</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/><br>MongoDB</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=git" alt="Git"/><br>Git</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=postman" alt="Postman"/><br>Postman</td>
-</tr>
-<tr>
-  <td align="center"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/><br>VS Code</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=figma" alt="Figma"/><br>Figma</td>
-</tr>
-</table>
+![Badge](https://img.shields.io/badge/KAIZER_MODE-ENGAGED-0ABEFF?style=for-the-badge&logo=github&logoColor=white)
+[![Profile Views](https://komarev.com/ghpvc/?username=Laukikrathod2007&style=for-the-badge&color=gold)](https://github.com/Laukikrathod2007)
+[![Followers](https://img.shields.io/github/followers/Laukikrathod2007?style=for-the-badge&color=0ABEFF)](https://github.com/Laukikrathod2007?tab=followers)
 
 </div>
 
 ---
 
-## 🖥️ DSA & Competitive Coding Platforms
+<img align="right" alt="Kaizer Coding GIF" width="400" src="https://raw.githubusercontent.com/Laukikrathod2007/assets/main/kaizer-coding.gif" />
+
+## 🧊 About Me  
+
+👑 **B.Tech IT (2024–2028)** – JSPM’s Rajarshi Shahu College  
+⚙️ **MERN Stack Developer** — clean architecture, pixel-perfect precision  
+🧠 Exploring **AI, Machine Learning & Neural Intelligence**  
+🎯 **DSA & Systems Thinker** — solving problems like a tactician  
+💬 “Code like Kaizer. Cold, precise, unstoppable.”
+
+---
+
+## ⚙️ The Kaizer’s Tech Domain
 
 <div align="center">
 
-<a href="https://leetcode.com/u/laukikrathod2007/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-</a>
-<a href="https://www.hackerrank.com/laukikrathod2007" target="_blank">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-</a>
-<a href="https://www.codechef.com/users/laukikrathod2007" target="_blank">
-<img src="https://img.shields.io/badge/CodeChef-333333?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-</a>
-<a href="https://codeforces.com/profile/laukikrathod2007" target="_blank">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-</a>
+| 💻 **Languages** | ⚔️ **Frameworks & Libraries** | 🧠 **Dev Arsenal** |
+|:----------------:|:-----------------------------:|:-----------------:|
+| <img src="https://skillicons.dev/icons?i=cpp,python,js,ts" height="60" /><br>**C++ • Python • JavaScript • TypeScript** | <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb" height="60" /><br>**React • Next.js • Node.js • Express • MongoDB** | <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,tailwind" height="60" /><br>**Git • Postman • VSCode • Figma • TailwindCSS** |
+| <img src="https://skillicons.dev/icons?i=redux,vercel,docker,linux" height="60" /><br>**Redux • Vercel • Docker • Linux** | <img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch" height="60" /><br>**AI/ML Tools • TensorFlow • PyTorch** | <img src="https://skillicons.dev/icons?i=bash,powershell" height="60" /><br>**Automation & CLI Mastery** |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats  
+## ⚔️ Competitive Grounds  
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laukikrathod2007&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laukikrathod2007&layout=compact&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=Laukikrathod2007&theme=tokyonight&border_radius=10" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Laukikrathod2007&theme=react-dark&bg_color=1a1b27&color=00C6FF&line=58A6FF&point=58A6FF&area=true" width="100%" />
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-0ABEFF?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/laukikrathod2007/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-007B5E?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/laukikrathod2007)
+[![CodeChef](https://img.shields.io/badge/CodeChef-222222?style=for-the-badge&logo=codechef&logoColor=gold)](https://www.codechef.com/users/laukikrathod2007)
+[![Codeforces](https://img.shields.io/badge/Codeforces-4169E1?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/laukikrathod2007)
+
 </div>
 
 ---
 
-## 🏆 GitHub Trophies  
+## 📈 The Kaizer’s Metrics  
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Laukikrathod2007&theme=tokyonight&no-frame=false&column=7&margin-w=15&margin-h=15" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laukikrathod2007&show_icons=true&theme=algolia&hide_border=true&rank_icon=github&title_color=0ABEFF&icon_color=FFD700" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laukikrathod2007&layout=compact&theme=algolia&hide_border=true&title_color=FFD700" />
+  
+<img src="https://streak-stats.demolab.com?user=Laukikrathod2007&theme=algolia&hide_border=true&ring=FFD700&fire=0ABEFF" />
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Laukikrathod2007&theme=react-dark&bg_color=0D1117&color=FFD700&line=0ABEFF&point=FFD700&area=true&hide_border=true" width="100%" />
+
 </div>
 
 ---
 
-## ⚡ Badass Quote  
+## 🏆 Kaizer’s Achievements  
 
 <div align="center">
-> "I don’t fear failure. I fear being in the exact same place next year as I am today." – **Laukik Rathod**
+  <img src="https://github-profile-trophy.vercel.app/?username=Laukikrathod2007&theme=algolia&no-frame=true&row=1&column=7&margin-w=15" />
 </div>
 
 ---
 
-## 🌐 Connect With Me  
+## 💬 Code Philosophy  
 
 <div align="center">
-<a href="mailto:rathodlaukik184@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/laukik-rathod"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Laukikrathod2007"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+  
+> “I don’t compete to win.  
+> I compete because **there’s no one else worth losing to.**”  
+> — *Laukik Rathod | Kaizer Mode*
+
+</div>
+
+---
+
+## 🌐 Contact the Kaizer  
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-0ABEFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rathodlaukik184@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/laukik-rathod)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Laukikrathod2007)
+
 </div>
 
 ---
 
 <div align="center">
-## 💻 “Code. Build. Learn. Repeat.”  
-*Turning caffeine into code since 2023 ☕*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" />
+## 👑 *“Perfection isn’t a goal — it’s the baseline.”*  
+🧊 *— Kaizer Protocol: Cold Logic. Elegant Execution.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0ABEFF&height=120&section=footer&animation=fadeIn" />
+
 </div>
