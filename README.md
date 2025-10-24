@@ -1,8 +1,8 @@
+<!-- 🌐 Laukik Rathod | Professional GitHub Profile -->
+
 <div align="center">
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Contribution Graph Animation" width="100%" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=800&lines=Laukik+Rathod;Full-Stack+Developer;Building+Intelligent+and+Elegant+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=800&lines=Laukik+Rathod;Full-Stack+Developer;AI+%26+Software+Enthusiast;Building+Intelligent+and+Elegant+Solutions" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Laukikrathod2007&style=for-the-badge&color=blue)](https://github.com/Laukikrathod2007)
 [![Followers](https://img.shields.io/github/followers/Laukikrathod2007?style=for-the-badge&color=0ABEFF)](https://github.com/Laukikrathod2007?tab=followers)
@@ -13,24 +13,55 @@
 
 <img align="right" alt="Coding GIF" width="380" src="https://raw.githubusercontent.com/Laukikrathod2007/assets/main/kaizer-coding.gif" />
 
-## 👨‍💻 About Me  
+## 👨‍💻 About Me — *Laukik Rathod*
 
 🎓 **B.Tech IT (2024–2028)** — JSPM’s Rajarshi Shahu College of Engineering  
-💼 **MERN Stack Developer** — specialized in modular and scalable web systems  
+💼 **MERN Stack Developer** — crafting clean, scalable, and maintainable solutions  
 🧠 Exploring **Artificial Intelligence**, **Machine Learning**, and **Automation**  
-🎯 Passionate about **DSA, design systems**, and clean software architecture  
-💬 *“Writing code that works is good; writing code that lasts is better.”*
+🎯 Focused on **Data Structures, Algorithms, and System Design**  
+💬 *“Good code solves problems; great code tells a story.”*
 
 ---
 
-## ⚙️ Tech Stack  
+## ⚙️ Tech Stack — *Laukik Rathod*
 
 <div align="center">
 
-| 💻 **Languages** | ⚙️ **Frameworks & Libraries** | 🧰 **Tools & Platforms** |
-|:----------------:|:-----------------------------:|:-----------------------:|
-| <img src="https://skillicons.dev/icons?i=cpp,python,js,ts" height="60" /><br>**C++ • Python • JavaScript • TypeScript** | <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb" height="60" /><br>**React • Next.js • Node.js • MongoDB** | <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,tailwind" height="60" /><br>**Git • Postman • VSCode • Figma • TailwindCSS** |
-| <img src="https://skillicons.dev/icons?i=redux,vercel,docker,linux" height="60" /><br>**Redux • Vercel • Docker • Linux** | <img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch" height="60" /><br>**OpenCV • TensorFlow • PyTorch** | <img src="https://skillicons.dev/icons?i=bash,powershell" height="60" /><br>**Bash • PowerShell • CLI Automation** |
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 💻 Languages  
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts" height="45" /><br>
+**C++ · Python · JavaScript · TypeScript**
+
+</td>
+<td align="center" width="33%">
+
+### ⚙️ Frameworks & Libraries  
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,redux" height="45" /><br>
+**React · Next.js · Node.js · Express · MongoDB · Redux**
+
+</td>
+<td align="center" width="33%">
+
+### 🧰 Tools & Platforms  
+<img src="https://skillicons.dev/icons?i=git,postman,vscode,figma,tailwind,vercel,docker,linux,bash,powershell" height="45" /><br>
+**Git · Postman · VSCode · Figma · TailwindCSS · Docker · Linux**
+
+</td>
+</tr>
+
+<tr>
+<td colspan="3" align="center">
+
+### 🧠 AI / Data Science  
+<img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch" height="45" /><br>
+**OpenCV · TensorFlow · PyTorch**
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -49,7 +80,7 @@
 
 ---
 
-## 📊 GitHub Insights  
+## 📊 GitHub Insights — *Laukik Rathod*
 
 <div align="center">
 
@@ -76,7 +107,7 @@
 
 <div align="center">
 
-> “Great developers don’t chase complexity — they master simplicity.”  
+> “Technology is not about building more — it's about building better.”  
 > — *Laukik Rathod*
 
 </div>
@@ -97,8 +128,7 @@
 
 <div align="center">
 
-### *“Code. Learn. Iterate. Evolve.”*
-
+### ✨ *Laukik Rathod — Engineering Thoughtful Technology Solutions*
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer&animation=fadeIn" />
 
 </div>
