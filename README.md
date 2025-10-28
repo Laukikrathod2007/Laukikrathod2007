@@ -23,8 +23,7 @@
 
 ---
 
-## ⚙️ Tech Stack — *Laukik Rathod*
-
+## ⚙️ Tech Stack 
 <div align="center">
 
 <table>
