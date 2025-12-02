@@ -127,7 +127,7 @@
 
 <div align="center">
 
-### ✨ *Laukik Rathod — Engineering Thoughtful Technology Solutions*
+### ✨ * Engineering Thoughtful Technology Solutions*
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer&animation=fadeIn" />
 
 </div>
