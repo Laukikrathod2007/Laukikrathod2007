@@ -47,7 +47,7 @@ while maintaining a stable relationship with bugs who refuse to leave.
 
 ---
 
-## 💬 A Thought  
+## 💬 A Thought   
 > **“My code works. I don’t know why, but it works.”**  
 > — also me, every day.
 
