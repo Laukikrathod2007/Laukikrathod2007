@@ -14,28 +14,21 @@
 
 -----
 
-<img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<div align="center">
 
-## Who am I?
+| &nbsp; | &nbsp; |
+| :--- | :---: |
+| <br>I’m Laukik Kishor Rathod — an **Aspiring AI-Forward Software Engineer** and **Open-Source Lead** who bridges the gap between complex research and production-scale utility.<br><br>Most devs write code. I architect end-to-end pipelines — from **RAG-based intelligence** and automated high-performance dispatch systems to leading national-scale open-source initiatives. I don't just ship code; I ship solutions that work in production.<br><br>**Right now, I’m:**<br>• 🧱 Pursuing my B.Tech in IT at **JSPM RSCOE, Pune** (CGPA: 8.85)<br>• 🤖 Leading **Open Source Connect India** as a Campus Lead<br>• 🦾 Scaling **CertifyPro** — an automated certificate dispatch engine<br>• 🧠 Deep diving into **LangChain**, **LangGraph**, and specialized **LLM agents** | <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400" style="border-radius: 20px;" /> |
 
-I’m Laukik Kishor Rathod — an **Aspiring AI-Forward Software Engineer** and **Open-Source Lead** who bridges the gap between complex research and production-scale utility.
+</div>
 
-Most devs write code. I architect end-to-end pipelines — from **RAG-based intelligence** and automated high-performance dispatch systems to leading national-scale open-source initiatives. I don't just ship code; I ship solutions that work in production.
-
-**Right now, I’m:**
-
-- 🧱 Pursuing my B.Tech in IT at **JSPM RSCOE, Pune** (CGPA: 8.85)
-- 🤖 Leading **Open Source Connect India** as a Campus Lead
-- 🦾 Scaling **CertifyPro** — an automated certificate dispatch engine
-- 🧠 Deep diving into **LangChain**, **LangGraph**, and specialized **LLM agents**
-
-**Philosophy:** Build with purpose. Solve with scale. Never stop contributing.
-
-<br clear="both">
+<p align="center">
+  <i>Philosophy: Build with purpose. Solve with scale. Never stop contributing.</i>
+</p>
 
 -----
 
-## My Tech Stack — All Foundations
+## The Full Stack — All Foundations
 
 *Not just a developer. An engineer who owns the entire lifecycle:*
 
@@ -82,7 +75,7 @@ Most devs write code. I architect end-to-end pipelines — from **RAG-based inte
 - *Tech: Python, FastAPI, ReportLab, SMTP, SQLite*
 
 ### 🏛️ **[YojnaSathi – Government Scheme Assistant](https://github.com/Laukikrathod2007/YojnaSathi)**
-- Architected an AI consultant to help users navigate complex government schemes using **RAG (Retrieval-Augmented Generation)**, semantic search, and document Q&A.
+- Architected an AI consultant to help users navigate government schemes using **RAG (Retrieval-Augmented Generation)**, semantic search, and document Q&A.
 - Integrated **Text-to-Speech** for enhanced accessibility, leveraging **LangChain** and **Hugging Face Transformers** for high-accuracy summarization and context retrieval.
 - *Tech: LangChain, RAG, Hugging Face,Transformers, Python*
 
@@ -113,7 +106,7 @@ Most devs write code. I architect end-to-end pipelines — from **RAG-based inte
 
 <div align="center">
   <a href="https://codolio.com/profile/Legend007" target="_blank">
-    <img src="https://img.shields.io/badge/Codolio-Legend07-blue?style=for-the-badge&logo=codolio&logoColor=white" alt="Codolio Profile" />
+    <img src="https://img.shields.io/badge/Codolio-Legend007-blue?style=for-the-badge&logo=codolio&logoColor=white" alt="Codolio Profile" />
   </a>
 </div>
 
@@ -160,7 +153,29 @@ Always down to talk code, collab on projects, or just geek out over tech. Don’
 -----
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500" alt="Work Environment" />
+
+```diff
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+@@       o o                                           @@
+@@       | |                                           @@
+@@      _L_L_                                          @@
+@@   ❮\/__-__\/❯ Programming isn't about what you know @@
+@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
+@@   ❮/ \`-'/ \❯                                       @@
+@@     _/`U'\_      .----------------------------.     @@
+@@    ( .   . )     | while( ! (succed=try() ) ) |     @@
+@@   / /     \ \    '----------------------------'     @@
+@@   \ |  ,  | /                                       @@
+@@    \|=====|/      creating a digital legacy         @@
+@@     |_.^._|            one commit at a time         @@
+@@     | |"| |                                         @@
+@@     ( ) ( )   Testing leads to failure              @@
+@@     |_| |_|   and failure leads to understanding    @@
+@@ _.-' _j L_ '-._                                     @@
+@@(___.'     '.___)                                    @@
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+```
+
 </div>
 
 <div align="center">
