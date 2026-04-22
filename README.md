@@ -8,7 +8,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI-Forward+Software+Engineer;Open-Source+Lead+%40+OSCI;Building+Production-Ready+AI+Pipelines;300%2B+DSA+Problems+Solved;B.Tech+IT+%7C+Pune" alt="Typing SVG" />
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLaukikrathod2007&label=Profile%20Views&countColor=%2337d67a&style=flat&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FLaukikrathod2007)
+<img src="https://komarev.com/ghpvc/?username=Laukikrathod2007&style=for-the-badge&color=00D9FF" alt="Profile Views" />
 
 </div>
 
@@ -198,8 +198,6 @@ Always down to talk code, collab on projects, or just geek out over tech. Don’
 <div align="center">
 
 ## “Solve. Architect. Lead.”
-
-<img src="https://komarev.com/ghpvc/?username=Laukikrathod2007&style=for-the-badge&color=00D9FF" alt="Profile Views" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn"/>
 
