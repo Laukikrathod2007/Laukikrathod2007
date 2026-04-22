@@ -14,11 +14,11 @@
 
 -----
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif(https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 ## Who am I?
 
-I’m Laukik Kishor Rathod — an ** Aspiring AI-Forward Software Engineer** and **Open-Source Lead** who bridges the gap between complex research and production-scale utility.
+I’m Laukik Kishor Rathod — an **Aspiring AI-Forward Software Engineer** and **Open-Source Lead** who bridges the gap between complex research and production-scale utility.
 
 Most devs write code. I architect end-to-end pipelines — from **RAG-based intelligence** and automated high-performance dispatch systems to leading national-scale open-source initiatives. I don't just ship code; I ship solutions that work in production.
 
@@ -104,6 +104,7 @@ Most devs write code. I architect end-to-end pipelines — from **RAG-based inte
 </div>
 
 - 🥇 **Campus Lead @ OSCI**: Scaling open-source outreach for 100+ students.
+
 -----
 
 ## Algorithmic Mastery 🧩
@@ -112,12 +113,12 @@ Most devs write code. I architect end-to-end pipelines — from **RAG-based inte
 
 <div align="center">
   <a href="https://codolio.com/profile/Legend007" target="_blank">
-    <img src="https://img.shields.io/badge/Codolio-Legend007-blue?style=for-the-badge&logo=codolio&logoColor=white" alt="Codolio Profile" />
+    <img src="https://img.shields.io/badge/Codolio-Legend07-blue?style=for-the-badge&logo=codolio&logoColor=white" alt="Codolio Profile" />
   </a>
 </div>
 
 - **300+ Problems Solved** across LeetCode, GeekForGeeks, and CodeChef.
-- **10x national Hackthons** Participation (**5X Won**).
+- **10x National Hackathons** Participation (**5X Won**).
 - Track my latest progress on **[Codolio](https://codolio.com/profile/Legend007)**.
 
 -----
@@ -159,7 +160,7 @@ Always down to talk code, collab on projects, or just geek out over tech. Don’
 -----
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="500" alt="Music" />
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500" alt="Work Environment" />
 </div>
 
 <div align="center">
