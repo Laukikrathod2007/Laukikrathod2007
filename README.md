@@ -3,10 +3,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/Laukikrathod2007/Laukikrathod2007/blob/output/github-contribution-grid-snake-dark.svg" alt="Laukik's contribution snake animation">
-</div>
-
-<div align="center">
 
 # Hey there! 👋 I’m Laukik Kishor Rathod
 
@@ -77,22 +73,30 @@ Most devs write code. I architect end-to-end pipelines — from **RAG-based inte
 
 -----
 
-## Featured Production Systems
+## Featured Production Systems 🚀
 
-*End-to-end architectures focused on performance and impact.*
+*High-impact engineering solutions delivered with measurable results.*
 
-<div align="center">
-  <a href="https://github.com/Laukikrathod2007/CertifyPro" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Laukikrathod2007&repo=CertifyPro&theme=tokyonight&border_color=00D9FF&border_radius=10" />
-  </a>
-  <a href="https://github.com/Laukikrathod2007/YojnaSathi" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Laukikrathod2007&repo=YojnaSathi&theme=tokyonight&border_color=00D9FF&border_radius=10" />
-  </a>
-</div>
+### 🎓 **[Certificate Generation & Email Automation System](https://github.com/Laukikrathod2007/CertifyPro)**
+- Built an automated certificate generation pipeline using **Python and FastAPI** that reads CSV data, generates high-fidelity PDFs, and handles automated dispatch.
+- Implemented **delay-based email batching** to stay within provider rate limits and engineered a robust logging system to track delivery status in real-time.
+- *Tech: Python, FastAPI, ReportLab, SMTP, SQLite*
+
+### 🏛️ **[YojnaSathi – Government Scheme Assistant](https://github.com/Laukikrathod2007/YojnaSathi)**
+- Architected an AI consultant to help users navigate complex government schemes using **RAG (Retrieval-Augmented Generation)**, semantic search, and document Q&A.
+- Integrated **Text-to-Speech** for enhanced accessibility, leveraging **LangChain** and **Hugging Face Transformers** for high-accuracy summarization and context retrieval.
+- *Tech: LangChain, RAG, Hugging Face,Transformers, Python*
+
+### 🌊 **[JalNetra – Ocean Hazard Reporting Platform](https://github.com/Laukikrathod2007/JalNetra)**
+- Designed a crowdsourced maritime hazard platform with an **AI pipeline** to classify and prioritize danger reports from multi-source user submissions.
+- Focused on real-time data ingestion and prioritizing high-risk hazards for immediate authority response.
+- *Tech: AI Classification, Python, React, GIS Integration*
 
 -----
 
-## Recognition & Digital Badges 🏅
+## Recognition & Global Contributions 🏅
+
+*Active leadership and technical recognition in the global developer ecosystem.*
 
 <div align="center">
   <a href="https://holopin.io/@laukikrathod2007" target="_blank">
@@ -100,24 +104,28 @@ Most devs write code. I architect end-to-end pipelines — from **RAG-based inte
   </a>
 </div>
 
+- 🥇 **Campus Lead @ OSCI**: Scaling open-source outreach for 100+ students.
+- 🚀 **Hackoberfest 2024/2025 Contributions**: Multiple levels completed with focused PRs on high-impact repos.
+
 -----
 
 ## Algorithmic Mastery 🧩
 
-*Solving complex problems, one edge case at a time.*
+*Proven consistency in problem-solving and architectural efficiency.*
 
 <div align="center">
-  <a href="https://leetcode.com/Laukikrathod2007" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Laukikrathod2007?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
+  <a href="https://codolio.com/profile/Legend007" target="_blank">
+    <img src="https://img.shields.io/badge/Codolio-Legend007-blue?style=for-the-badge&logo=codolio&logoColor=white" alt="Codolio Profile" />
   </a>
 </div>
 
-- **300+ Problems Solved** across platforms.
-- Deep focus on **Complexity Analysis** and **Scalable Architectures**.
+- **300+ Problems Solved** across LeetCode, GeekForGeeks, and CodeChef.
+- **Top 1% Momentum** in national coding rounds (Abhudaya 1st Place).
+- Track my latest progress on **[Codolio](https://codolio.com/profile/Legend007)**.
 
 -----
 
-## The Numbers
+## Technical Momentum
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laukikrathod2007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00D9FF&border_radius=10"/>
@@ -145,24 +153,16 @@ Always down to talk code, collab on projects, or just geek out over tech. Don’
 <a href="mailto:rathodlaukik184@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://leetcode.com/Laukikrathod2007" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<a href="https://codolio.com/profile/Legend007" target="_blank">
+  <img src="https://img.shields.io/badge/Codolio-Legend007-blue?style=for-the-badge&logo=codolio&logoColor=white" />
 </a>
 
 </div>
 
 -----
 
-## Wisdom from the Coding Gods
-
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&border_color=00D9FF" />
-</div>
-
------
-
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="500" alt="Music" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="500" alt="Music" />
 </div>
 
 <div align="center">
