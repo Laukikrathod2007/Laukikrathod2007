@@ -1,10 +1,8 @@
-<!-- 🚀 Laukik Rathod | GitHub Profile -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=170&section=header&text=Laukik%20Rathod&fontSize=48&fontAlign=50&fontColor=ffffff&animation=fadeIn" />
 
-### Engineer in the making • Backend Enthusiast • Problem Solver
+### Open-Source Campus Lead • GenAI Builder • Backend Automation Engineer • DSA Practitioner
 
 </div>
 
@@ -12,68 +10,76 @@
 
 ## 👋 About Me
 
-Hi, I'm **Laukik Rathod**, a B.Tech IT student passionate about building real-world applications and solving challenging problems through code.
+I’m Laukik Rathod, a B.Tech IT student and Campus Lead at Open Source Connect India.
 
-- 🔧 Currently focused on **Backend Development**, **Web Systems**, and **DSA**
-- 🧠 Strong interest in **system thinking** and writing clean, scalable code
-- 🏗️ Love building projects that actually solve problems
-- 💡 Consistent problem solver across coding platforms
-- 📈 Always learning, always building
+I build backend systems, AI-powered applications, and automation tools that solve real problems.  
+I’m deeply interested in how systems work, how AI can be integrated into products, and writing clean, scalable code.
+
+- 🧠 Strong in Data Structures & Algorithms (300+ problems)
+- 🤝 Mentored 20+ students into open source contributions
+- ⚙️ Build automation pipelines and AI assistants using FastAPI & RAG
+- 🏆 Hackathon team lead across national innovation challenges
+
+---
+
+## ⭐ Featured Projects
+
+### 📜 Certificate Generation & Email Automation System
+A FastAPI-based automation pipeline that reads CSV data, generates personalized PDFs, and sends them via SMTP with rate-limit aware batching and delivery logging.
+
+**Tech:** Python, FastAPI, SMTP, PDF generation
+
+---
+
+### 🧠 YojnaSathi — Government Scheme AI Assistant
+An AI assistant that helps users understand government schemes using Retrieval-Augmented Generation, semantic search, and document Q&A with text-to-speech for accessibility.
+
+**Tech:** LangChain, Hugging Face, RAG, Python
+
+---
+
+### 🌊 JalNetra — Ocean Hazard Reporting Platform
+A crowdsourced maritime hazard reporting platform with an AI pipeline that classifies and prioritizes reports from social media and users.
+
+**Tech:** Python, AI classification pipeline
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-### Backend & Database
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+**Languages:** Python, C, C++  
+**AI / GenAI:** RAG, Prompt Engineering, Hugging Face Transformers, LangChain, LangGraph  
+**Frameworks:** FastAPI  
+**Databases:** SQLite, Supabase, Firebase  
+**Tools:** Git, GitHub, Docker, Postman
 
 ---
 
-## 🧠 Competitive Programming & Problem Solving
+## 🧠 Problem Solving
 
-I regularly practice problem solving and data structures to strengthen my fundamentals.
+I regularly practice DSA and complexity analysis.
 
-- LeetCode: https://leetcode.com/u/laukikrathod2007/
-- Codeforces: https://codeforces.com/profile/laukikrathod2007
-- CodeChef: https://www.codechef.com/users/laukikrathod2007
-- HackerRank: https://www.hackerrank.com/laukikrathod2007
+- LeetCode: https://leetcode.com/u/LaukikRathod007/
 
 ---
 
-## 🚀 What I’m Working On
+## 📈 GitHub Stats
 
-- Building full-stack web applications
-- Strengthening backend architecture skills
-- Solving DSA problems daily
-- Exploring scalable system design concepts
+![Stats](https://github-readme-stats.vercel.app/api?username=Laukikrathod2007&show_icons=true&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=Laukikrathod2007&theme=tokyonight)
 
 ---
 
-## 📫 Connect With Me
+## 🎯 Leadership & Open Source
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rathodlaukik184@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/laukik-rathod)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Laukikrathod2007)
+- Campus Lead — Open Source Connect India
+- Contributor — GirlScript Summer of Code
+- Super Contributor — Hacktoberfest
+- Conducted Git & Open Source workshops for 20+ students
 
 ---
 
-## 💬 Philosophy
+## 📫 Connect
 
-> “First make it work. Then make it better. Then make it fast.”
+[LinkedIn](https://www.linkedin.com/in/laukik-rathod-182337311/) •
+[Email](mailto:rathodlaukik184@gmail.com)
