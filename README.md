@@ -14,25 +14,34 @@
 
 -----
 
-<img align="right" alt="Coding" width="400" style="border-radius: 20px;" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<table width="100%">
+<tr>
+<td width="58%" valign="middle">
 
 ## Who am I?
 
-I’m Laukik Kishor Rathod — an **Aspiring AI-Forward Software Engineer** and **Open-Source Lead** who bridges the gap between complex research and production-scale utility.
+I’m **Laukik Kishor Rathod** — an **Aspiring AI-Forward Software Engineer** and **Open-Source Lead** who bridges the gap between complex research and production-scale utility.
 
 Most devs write code. I architect end-to-end pipelines — from **RAG-based intelligence** and automated high-performance dispatch systems to leading national-scale open-source initiatives. I don't just ship code; I ship solutions that work in production.
 
 **Right now, I’m:**
 
-- 🧱 Pursuing my B.Tech in IT at **JSPM RSCOE, Pune** (CGPA: 8.85)
+- 🧱 Pursuing B.Tech in IT at **JSPM RSCOE, Pune** (CGPA: 8.85)
 - 🤖 Leading **Open Source Connect India** as a Campus Lead
 - 🦾 Scaling **CertifyPro** — an automated certificate dispatch engine
-- 🧠 Deep diving into **LangChain**, **LangGraph**, and specialized **LLM agents**
-- 🌟 Contributing to global open-source ecosystems through **GSSoC '25**
+- 🧠 Deep diving into **LangChain**, **LangGraph**, and specialized LLM agents
 
 **Philosophy:** Build with purpose. Solve with scale. Never stop contributing.
 
-<br clear="both">
+</td>
+
+<td width="42%" align="center" valign="middle">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="360"/>
+
+</td>
+</tr>
+</table>
 
 -----
 
