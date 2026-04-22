@@ -14,21 +14,29 @@
 
 -----
 
-<div align="center">
+<img align="right" alt="Coding" width="400" style="border-radius: 20px;" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-| &nbsp; | &nbsp; |
-| :--- | :---: |
-| <br>I’m Laukik Kishor Rathod — an **Aspiring AI-Forward Software Engineer** and **Open-Source Lead** who bridges the gap between complex research and production-scale utility.<br><br>Most devs write code. I architect end-to-end pipelines — from **RAG-based intelligence** and automated high-performance dispatch systems to leading national-scale open-source initiatives. I don't just ship code; I ship solutions that work in production.<br><br>**Right now, I’m:**<br>• 🧱 Pursuing my B.Tech in IT at **JSPM RSCOE, Pune** (CGPA: 8.85)<br>• 🤖 Leading **Open Source Connect India** as a Campus Lead<br>• 🦾 Scaling **CertifyPro** — an automated certificate dispatch engine<br>• 🧠 Deep diving into **LangChain**, **LangGraph**, and specialized **LLM agents** | <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400" style="border-radius: 20px;" /> |
+## Who am I?
 
-</div>
+I’m Laukik Kishor Rathod — an **Aspiring AI-Forward Software Engineer** and **Open-Source Lead** who bridges the gap between complex research and production-scale utility.
 
-<p align="center">
-  <i>Philosophy: Build with purpose. Solve with scale. Never stop contributing.</i>
-</p>
+Most devs write code. I architect end-to-end pipelines — from **RAG-based intelligence** and automated high-performance dispatch systems to leading national-scale open-source initiatives. I don't just ship code; I ship solutions that work in production.
+
+**Right now, I’m:**
+
+- 🧱 Pursuing my B.Tech in IT at **JSPM RSCOE, Pune** (CGPA: 8.85)
+- 🤖 Leading **Open Source Connect India** as a Campus Lead
+- 🦾 Scaling **CertifyPro** — an automated certificate dispatch engine
+- 🧠 Deep diving into **LangChain**, **LangGraph**, and specialized **LLM agents**
+- 🌟 Contributing to global open-source ecosystems through **GSSoC '25**
+
+**Philosophy:** Build with purpose. Solve with scale. Never stop contributing.
+
+<br clear="both">
 
 -----
 
-## The Full Stack — All Foundations
+## My Tech Stack — All Foundations
 
 *Not just a developer. An engineer who owns the entire lifecycle:*
 
@@ -75,7 +83,7 @@
 - *Tech: Python, FastAPI, ReportLab, SMTP, SQLite*
 
 ### 🏛️ **[YojnaSathi – Government Scheme Assistant](https://github.com/Laukikrathod2007/YojnaSathi)**
-- Architected an AI consultant to help users navigate government schemes using **RAG (Retrieval-Augmented Generation)**, semantic search, and document Q&A.
+- Architected an AI consultant to help users navigate complex government schemes using **RAG (Retrieval-Augmented Generation)**, semantic search, and document Q&A.
 - Integrated **Text-to-Speech** for enhanced accessibility, leveraging **LangChain** and **Hugging Face Transformers** for high-accuracy summarization and context retrieval.
 - *Tech: LangChain, RAG, Hugging Face,Transformers, Python*
 
@@ -163,14 +171,14 @@ Always down to talk code, collab on projects, or just geek out over tech. Don’
 @@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
 @@   ❮/ \`-'/ \❯                                       @@
 @@     _/`U'\_      .----------------------------.     @@
-@@    ( .   . )     | while( ! (succed=try() ) ) |     @@
-@@   / /     \ \    '----------------------------'     @@
-@@   \ |  ,  | /                                       @@
+@@    ( .   . )     | while(!success || !try())  |     @@
+@@   / /     \ \    |   optimize( Legend007 );   |     @@
+@@   \ |  ,  | /    '----------------------------'     @@
 @@    \|=====|/      creating a digital legacy         @@
 @@     |_.^._|            one commit at a time         @@
 @@     | |"| |                                         @@
-@@     ( ) ( )   Testing leads to failure              @@
-@@     |_| |_|   and failure leads to understanding    @@
+@@     ( ) ( )   Innovation leads to impact            @@
+@@     |_| |_|   and impact leads to Legend.007        @@
 @@ _.-' _j L_ '-._                                     @@
 @@(___.'     '.___)                                    @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
