@@ -1,15 +1,16 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Laukikrathod2007/DSA_Daily/main/assets/laukik_tech_banner.png" alt="Laukik's Technical Banner" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Mario" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/Laukikrathod2007/Laukikrathod2007/blob/output/github-contribution-grid-snake-dark.svg" alt="Laukik's contribution snake animation">
 </div>
 
 <div align="center">
 
-# Laukik Kishor Rathod
-### AI-Forward Software Engineer | Open-Source Leader | 300+ Solved Challenges
+# Hey there! 👋 I’m Laukik Kishor Rathod
 
-**300+ Problems Solved** &nbsp;•&nbsp; **10+ Hackathons Led** &nbsp;•&nbsp; **50,000+ Technical Reach**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Engineering+production-ready+AI+architectures;Scaling+Open-Source+ecosystems;Solving+complex+algorithmic+challenges;B.Tech+IT+Student+%40+JSPM+RSCOE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI-Forward+Software+Engineer;Open-Source+Lead+%40+OSCI;Building+Production-Ready+AI+Pipelines;300%2B+DSA+Problems+Solved;B.Tech+IT+%7C+Pune" alt="Typing SVG" />
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLaukikrathod2007&label=Profile%20Views&countColor=%2337d67a&style=flat&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FLaukikrathod2007)
 
@@ -21,50 +22,64 @@
 
 ## Who am I?
 
-I’m Laukik Kishor Rathod — an **AI-Forward Software Engineer** and **Open-Source Lead** dedicated to architecting systems that bridge the gap between complex research and production-scale utility.
+I’m Laukik Kishor Rathod — an **AI-Forward Software Engineer** and **Open-Source Lead** who bridges the gap between complex research and production-scale utility.
 
-While most developers focus on building features, I focus on **end-to-end engineering cycles**. From designing RAG-based intelligence for high-traffic platforms to leading national-scale open-source initiatives as a **Campus Lead @ OSCI**, I build with a focus on scalability, maintainability, and data-driven results.
+Most devs write code. I architect end-to-end pipelines — from **RAG-based intelligence** and automated high-performance dispatch systems to leading national-scale open-source initiatives. I don't just ship code; I ship solutions that work in production.
 
-**Core Mission:**
-- 🦾 **Productizing AI**: Building RAG, LangChain, and LLM-agent architectures that work in the real world.
-- 🤝 **Scaling Communities**: Mentoring 20+ students and scaling open-source outreach across India.
-- 🧩 **Algorithmic Consistency**: Maintaining a high-velocity problem-solving streak (300+ solved).
+**Right now, I’m:**
 
-**Philosophy:** Build with purpose. Ship with confidence. Lead by example.
+- 🧱 Pursuing my B.Tech in IT at **JSPM RSCOE, Pune** (CGPA: 8.85)
+- 🤖 Leading **Open Source Connect India** as a Campus Lead
+- 🦾 Scaling **CertifyPro** — an automated certificate dispatch engine
+- 🧠 Deep diving into **LangChain**, **LangGraph**, and specialized **LLM agents**
+- 🌟 Contributing to global open-source ecosystems through **GSSoC '25**
+
+**Philosophy:** Build with purpose. Solve with scale. Never stop contributing.
 
 <br clear="both">
 
 -----
 
-## Tech Stack — The Engineering Foundation
+## The Full Stack — All Foundations
 
-*I own the entire lifecycle, from low-level algorithmic logic to distributed AI layers:*
+*Not just a developer. An engineer who owns the entire lifecycle:*
 
 <div align="center">
 
-### 💻 Core Engineering & Logic
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60" alt="Python"> &nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60" alt="C++"> &nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60" alt="C"> &nbsp;
+### 🧱 Languages & Logic
 
-### 🤖 AI, LLMs & Generative Systems
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+### 🤖 AI & LLM Stack
+
 ![RAG](https://img.shields.io/badge/RAG-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=grid-elements&logoColor=white)
 
-### 🗄️ Databases & Infrastructure
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="60" alt="Docker"> &nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="60" alt="Git"> &nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="60" alt="VSCode">
+### 🗄️ Databases & Persistence
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### ⚙️ DevOps & Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 -----
 
-## Featured Production Architectures
+## Featured Production Systems
 
-*Projects engineered for performance, scalability, and impact.*
+*End-to-end architectures focused on performance and impact.*
 
 <div align="center">
   <a href="https://github.com/Laukikrathod2007/CertifyPro" target="_blank">
@@ -75,34 +90,9 @@ While most developers focus on building features, I focus on **end-to-end engine
   </a>
 </div>
 
-### 🎓 **[CertifyPro](https://github.com/Laukikrathod2007/CertifyPro)** — Automated Dispatch Engine
-**Problem**: Traditional pixel-based certificate systems fail on high-resolution templates.  
-**Solution**: Built a coordinate-independent pipeline using floats and FastAPI, handling 100+ PDFs/sec with automated SMTP dispatch.
-*Python · FastAPI · ReportLab · SQL*
-
-### 🏛️ **[YojnaSathi](https://github.com/Laukikrathod2007/YojnaSathi)** — RAG-Powered AI Consultant
-**Impact**: Bridging information gaps for government scheme accessibility.  
-**Tech**: Implemented a Retrieval-Augmented Generation (RAG) system with semantic search and summarization for complex policy documents.
-*LangChain · RAG · Hugging Face · Transformers*
-
 -----
 
-## Algorithmic Mastery & Consistency 🧩
-
-*Proven problem-solving capabilities verified by third-party metrics.*
-
-<div align="center">
-  <a href="https://leetcode.com/Laukikrathod2007" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Laukikrathod2007?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
-  </a>
-</div>
-
-- **300+ Problems Solved** with a deep focus on space-time optimization.
-- **Top 1%** momentum in national coding rounds (Abhudaya 1st Place).
-
------
-
-## Recognition & Global Impact 🏆
+## Recognition & Digital Badges 🏅
 
 <div align="center">
   <a href="https://holopin.io/@laukikrathod2007" target="_blank">
@@ -110,13 +100,24 @@ While most developers focus on building features, I focus on **end-to-end engine
   </a>
 </div>
 
-- 🥇 **Campus Lead @ OSCI**: Scaling open-source outreach across 100+ students.
-- 🏆 **10+ Hackathon Wins/Leadership**: Driving solutions from concept to MVP in <48 hours.
-- 🌟 **Technical Content Strategy**: Built a 50,000+ impression reach on LinkedIn shared knowledge.
+-----
+
+## Algorithmic Mastery 🧩
+
+*Solving complex problems, one edge case at a time.*
+
+<div align="center">
+  <a href="https://leetcode.com/Laukikrathod2007" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Laukikrathod2007?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
+  </a>
+</div>
+
+- **300+ Problems Solved** across platforms.
+- Deep focus on **Complexity Analysis** and **Scalable Architectures**.
 
 -----
 
-## Technical Momentum
+## The Numbers
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laukikrathod2007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00D9FF&border_radius=10"/>
@@ -129,25 +130,40 @@ While most developers focus on building features, I focus on **end-to-end engine
 
 -----
 
-## Let’s Architect Something Great
+## Let’s Connect!
 
-Always looking for ambitious engineering challenges or open-source collaborations.
+Always down to talk code, collab on projects, or just geek out over tech. Don’t be a stranger!
 
 <div align="center">
 
-<a href="https://github.com/Laukikrathod2007" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="60" />
-</a>
 <a href="https://www.linkedin.com/in/laukik-rathod-/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="60" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Laukikrathod2007" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="mailto:rathodlaukik184@gmail.com" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/235294006-04e22871-2943-4626-9a99-e1d416cbda26.gif" width="60" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://leetcode.com/Laukikrathod2007" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 </div>
 
 -----
+
+## Wisdom from the Coding Gods
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&border_color=00D9FF" />
+</div>
+
+-----
+
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="500" alt="Music" />
+</div>
 
 <div align="center">
 
