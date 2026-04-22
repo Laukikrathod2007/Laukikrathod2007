@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Laukikrathod2007/DSA_Daily/main/assets/laukik_tech_banner.png" alt="Laukik's Technical Banner" width="100%">
+</div>
+
+<div align="center">
   <img src="https://github.com/Laukikrathod2007/Laukikrathod2007/blob/output/github-contribution-grid-snake-dark.svg" alt="Laukik's contribution snake animation">
 </div>
 
@@ -6,7 +10,7 @@
 
 # Hey there! 👋 I’m Laukik Kishor Rathod
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=B.Tech+Information+Technology+Student;AI+%26+Full-Stack+Enthusiast;Open-Source+Contributor;Building+the+Future+with+AI+%7C+Python;Campus+Lead+%40+Open+Source+Connect+India" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI-Forward+Software+Engineer;Open-Source+Lead+%40+OSCI;Building+Production-Ready+AI+Pipelines;300%2B+DSA+Problems+Solved;B.Tech+IT+%7C+Pune" alt="Typing SVG" />
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLaukikrathod2007&label=Profile%20Views&countColor=%2337d67a&style=flat&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FLaukikrathod2007)
 
@@ -14,41 +18,41 @@
 
 -----
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/blob/main/assets/coding.gif?raw=true">
 
 ## Who am I?
 
-I’m Laukik Kishor Rathod — a **B.Tech Information Technology** student and a passionate **Open-Source Contributor**. I specialize in building intelligent, scalable systems that bridge the gap between AI and real-world utility.
+I’m Laukik Kishor Rathod — an **AI-Forward Software Engineer** and **Open-Source Lead** who bridges the gap between complex research and production-ready utility.
 
-I don't just write code; I architect solutions. Whether it's automating certificate generation for hundreds of students, building RAG-based AI assistants for government schemes, or leading campus-wide open-source initiatives, I thrive on solving complex problems.
+Most developers build features. I architect end-to-end pipelines — from **RAG-based intelligence** and automated high-performance dispatch systems to leading national-scale open-source initiatives. I don't just ship code; I ship solutions that scale.
 
 **Right now, I’m:**
 
 - 🧱 Pursuing my B.Tech in IT at **JSPM RSCOE, Pune** (CGPA: 8.85)
 - 🤖 Leading **Open Source Connect India** as a Campus Lead
-- 🚀 Scaling **CertifyPro**, an automated certificate dispatch system
-- 🧠 Deep diving into **RAG**, **LangChain**, and **Generative AI** pipelines
-- 💼 Contributing to global projects through **GirlScript Summer of Code**
+- 🦾 Architecting **CertifyPro** — pushing the limits of automated PDF generation & dispatch
+- 🧠 Deep diving into **LangChain**, **LangGraph**, and specialized **LLM agents**
+- 🌟 Contributing to global open-source ecosystems through **GSSoC '25**
 
-**Philosophy:** Solve. Contribute. Excel. I believe in the power of open source to change the world, one pull request at a time.
+**Philosophy:** Build with purpose. Solve with scale. Never stop contributing.
 
 <br clear="both">
 
 -----
 
-## Tech Stack — The Pillars of My Workflow
+## Tech Stack — The Engineering Foundation
 
-*From low-level logic to high-level intelligence:*
+*Ownership of the entire lifecycle, from logic to neural layers:*
 
 <div align="center">
 
-### 💻 Programming Languages
+### 💻 Languages & Logic
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-### 🤖 AI & GenAI Stack
+### 🤖 AI, LLMs & Generative Stack
 
 ![RAG](https://img.shields.io/badge/RAG-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -56,13 +60,13 @@ I don't just write code; I architect solutions. Whether it's automating certific
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=grid-elements&logoColor=white)
 
-### 🗄️ Databases & Persistence
+### 🗄️ Databases & Scalability
 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🛠️ Developer Tools & DevOps
+### ⚙️ Developer Tools & DevOps
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -73,31 +77,56 @@ I don't just write code; I architect solutions. Whether it's automating certific
 
 -----
 
-## Featured Projects
+## Featured Production Systems
 
-*Production-ready. Open-source. AI-powered.*
+*End-to-end architectures focused on performance and impact.*
 
-### 🎓 **[CertifyPro](https://github.com/Laukikrathod2007/CertifyPro)** — Certificate Automation System
+<div align="center">
+  <a href="https://github.com/Laukikrathod2007/CertifyPro" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Laukikrathod2007&repo=CertifyPro&theme=tokyonight&border_color=00D9FF&border_radius=10" />
+  </a>
+  <a href="https://github.com/Laukikrathod2007/YojnaSathi" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Laukikrathod2007&repo=YojnaSathi&theme=tokyonight&border_color=00D9FF&border_radius=10" />
+  </a>
+</div>
 
-A high-performance pipeline using **Python** and **FastAPI** that reads CSV data, generates personalized PDFs, and automates dispatch via SMTP. Features delay-based batching and resolution independence.
+### 🎓 **[CertifyPro](https://github.com/Laukikrathod2007/CertifyPro)** — Enterprise Certificate Pipeline
+High-performance pipeline utilizing **FastAPI** for bulk PDF generation and SMTP automation. Solves coordinate desync issues via resolution-independent ratios.
+*Python · FastAPI · ReportLab · SQLAlchemy*
 
-*Python · FastAPI · ReportLab · SQLite · SMTP Automation*
+### 🏛️ **[YojnaSathi](https://github.com/Laukikrathod2007/YojnaSathi)** — AI Government Assistant
+Retrieval-Augmented Generation (RAG) system for government scheme navigation. Features semantic search and summarization using **LangChain**.
+*LangChain · RAG · Hugging Face · Transformers*
 
 -----
 
-### 🏛️ **YojnaSathi** — Government Scheme Assistant
+## Recognition & Global Impact 🏆
 
-An AI-powered assistant that helps users navigate government schemes using **RAG**, semantic search, and document Q&A. Integrated with **LangChain** and **Hugging Face** for summarization.
+<div align="center">
+  <a href="https://holopin.io/@laukikrathod2007" target="_blank">
+    <img src="https://holopin.me/laukikrathod2007" alt="My Holopin Badges" width="100%" />
+  </a>
+</div>
 
-*LangChain · RAG · Hugging Face · Python · Transformers*
+- 🥇 **1st Place** – Abhudaya Coding Competition (DSA Round).
+- 🏆 **10+ National Hackathons** led as a technical strategist.
+- 📈 **50,000+ Engagement** on technical content (LinkedIn).
+- 🌟 **Super Contributor** – Hacktoberfest 2025.
 
 -----
 
-### 🌊 **JalNetra** — Ocean Hazard Reporting Platform
+## Algorithmic Mastery 🧩
 
-A crowdsourced platform for reporting maritime hazards, featuring an **AI pipeline** to classify and prioritize reports from social media and user submissions.
+*Solving complex problems, one edge case at a time.*
 
-*AI Pipeline · Python · Crowdsourcing · Data Classification*
+<div align="center">
+  <a href="https://leetcode.com/Laukikrathod2007" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Laukikrathod2007?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
+  </a>
+</div>
+
+- **300+ Problems** solved across platforms.
+- Deep focus on **Complexity Analysis** and **Scalable Architectures**.
 
 -----
 
@@ -112,21 +141,15 @@ A crowdsourced platform for reporting maritime hazards, featuring an **AI pipeli
   <img src="https://streak-stats.demolab.com?user=Laukikrathod2007&theme=tokyonight&border_radius=10&border=00D9FF" alt="GitHub Streak" />
 </div>
 
------
-
-## Achievements & Impact 🏆
-
-- 🚀 **300+ DSA Problems** solved on LeetCode and other platforms.
-- 🥇 **1st Place** – Abhudaya Coding Competition (DSA Round).
-- 👥 **Team Lead** in 10+ national hackathons, driving social impact.
-- 📈 **50,000+ LinkedIn Impressions** through technical content sharing.
-- 🌟 **Super Contributor** – Hacktoberfest 2025.
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Laukikrathod2007&theme=tokyo-night&bg_color=1a1b27&color=00D9FF&line=00D9FF&point=403d3d&area=true&hide_border=false&border_color=00D9FF&radius=10" width="100%"/>
+</div>
 
 -----
 
 ## Let’s Connect!
 
-Always open to collaboration on open-source projects or discussing the latest in AI and Web3.
+I’m always looking for ambitious projects to collaborate on. If you’re building something that pushes boundaries, let’s talk.
 
 <div align="center">
 
