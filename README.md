@@ -14,11 +14,11 @@
 
 -----
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
+<img align="right" alt="Coding" width="400" src="[https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)">
 
 ## Who am I?
 
-I’m Laukik Kishor Rathod — an **AI-Forward Software Engineer** and **Open-Source Lead** who bridges the gap between complex research and production-scale utility.
+I’m Laukik Kishor Rathod — an ** Aspiring AI-Forward Software Engineer** and **Open-Source Lead** who bridges the gap between complex research and production-scale utility.
 
 Most devs write code. I architect end-to-end pipelines — from **RAG-based intelligence** and automated high-performance dispatch systems to leading national-scale open-source initiatives. I don't just ship code; I ship solutions that work in production.
 
@@ -28,7 +28,6 @@ Most devs write code. I architect end-to-end pipelines — from **RAG-based inte
 - 🤖 Leading **Open Source Connect India** as a Campus Lead
 - 🦾 Scaling **CertifyPro** — an automated certificate dispatch engine
 - 🧠 Deep diving into **LangChain**, **LangGraph**, and specialized **LLM agents**
-- 🌟 Contributing to global open-source ecosystems through **GSSoC '25**
 
 **Philosophy:** Build with purpose. Solve with scale. Never stop contributing.
 
@@ -36,7 +35,7 @@ Most devs write code. I architect end-to-end pipelines — from **RAG-based inte
 
 -----
 
-## The Full Stack — All Foundations
+## My Tech Stack — All Foundations
 
 *Not just a developer. An engineer who owns the entire lifecycle:*
 
@@ -105,8 +104,6 @@ Most devs write code. I architect end-to-end pipelines — from **RAG-based inte
 </div>
 
 - 🥇 **Campus Lead @ OSCI**: Scaling open-source outreach for 100+ students.
-- 🚀 **Hackoberfest 2024/2025 Contributions**: Multiple levels completed with focused PRs on high-impact repos.
-
 -----
 
 ## Algorithmic Mastery 🧩
@@ -120,7 +117,7 @@ Most devs write code. I architect end-to-end pipelines — from **RAG-based inte
 </div>
 
 - **300+ Problems Solved** across LeetCode, GeekForGeeks, and CodeChef.
-- **Top 1% Momentum** in national coding rounds (Abhudaya 1st Place).
+- **10x national Hackthons** Participation (**5X Won**).
 - Track my latest progress on **[Codolio](https://codolio.com/profile/Legend007)**.
 
 -----
