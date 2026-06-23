@@ -8,7 +8,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI-Forward+Software+Engineer;Open-Source+Lead+%40+OSCI;Building+Production-Ready+AI+Pipelines;300%2B+DSA+Problems+Solved;B.Tech+IT+%7C+Pune" alt="Typing SVG" />
 
-
 </div>
 
 <div align="center">
